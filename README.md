@@ -1,5 +1,5 @@
 **EDA COVID**
-Covid_19_india dataset
+Covid_19_india dataset 
   Columns are  - Date, Time, State/UnionTerritory, Cured, Deaths, Confirmed, etc.
   Total 9 columns and 18110 entries(records)
   Removed unnecessary columns such as time, confirmed indian national etc.
